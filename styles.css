@@ -89,3 +89,20 @@ a:link, a:hover, a:visited, a:active {
     clear: both;
     display: table;
 }
+.td1 {
+    text-align: right;
+}
+.td2 {
+    text-align: left;
+}
+table, tr, td {
+    border: 1px solid black;
+    background-color: #5b7acf;
+}
+td {
+    width: 50%;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
